@@ -1,12 +1,14 @@
 # TripleTen Customer Analysis Project - Zomato Restaurant App
 
 ### The Prompt
-Zomato is a multinational restaurant aggregator and food delivery company. As your first assignment as a junior analyst, you’re given several test datasets to analyze the business performance of restaurants and customers registered in the service. I choose to focus on a Customer Analysis Segmentation. My analysis will answer five questions: 
-	1. Who are Zomato's customers in general?
-	2. What segments can we split them into?
-	3. Who is the typical customer and what are their preferences?
-	4. What do we know about customer purchasing trends?
-	5. What changes can Zomato make to improve business outcomes?
+Zomato is a multinational restaurant aggregator and food delivery company. As your first assignment as a junior analyst, you’re given several test datasets to analyze the business performance of restaurants and customers registered in the service. I choose to focus on a Customer Analysis Segmentation.
+
+My analysis will answer five questions:
+  1. Who are Zomato's customers in general?
+  2. What segments can we split them into?
+  3. Who is the typical customer and what are their preferences?
+  4. What do we know about customer purchasing trends?
+  5. What changes can Zomato make to improve business outcomes?
 
 ### The Data
 I used three provided datasets with information on 100,000 Zomato users, over 140,000 individual restaurants, and over 150,000 unique orders for this Analysis. 
