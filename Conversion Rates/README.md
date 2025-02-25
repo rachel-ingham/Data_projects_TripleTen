@@ -12,8 +12,7 @@ A unique UserID count was used to build the conversion funnel for the 3 events p
 
 ![image](https://github.com/user-attachments/assets/b74ae199-d7c1-4a2f-b6b6-34e5814908d0)
 
-User cohorts were created based on the first month individual users made a purchase. The columns first_purchase_month and cohort_age in the purchase activity table 
-were created to build monthly cohorts.
+User cohorts were created based on the first month individual users made a purchase. VLookup was used to find the first_purchase date of the customer that was listed for each product page event in the dataset. The columns first_purchase_month and cohort_age in the purchase activity table were then created to build monthly cohorts.
 
 ![image](https://github.com/user-attachments/assets/f7aece04-d035-4361-8535-17194931b777)
 
