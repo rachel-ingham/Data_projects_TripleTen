@@ -20,7 +20,16 @@ The AirBNB dataset was provided by TripleTen and includes
     -  the `'minimum_nights'` and `'maximum_nights'` for a booking made on this day
 
 ### The Process
-After some basic data cleaning, I created pivot tables to analyze which neighborhoods and property sizes are most attractive for vacation rentals based on reviews in the last month. To calculate how much money the most attractive listings generated, I focused on the top 10 neighborhoods and the most popular-sized property in those neighborhoods by creating a top_listing identifier column. Annual revenue was estimated by multiplying the last month's revenue by 12. 
+After some basic data cleaning, I created pivot tables to analyze which neighborhoods and property sizes are most attractive for vacation rentals based on reviews in the last month. The following visualizations show the most popular neighborhoods by review count and popular property sizes in those neighborhoods by counting the number of listings of that size. 
+
+![Total Review Count in the Last 12 Months by Neighborhood](https://github.com/user-attachments/assets/ed5d2031-64ef-4c23-99af-79742f48fa14)
+
+![1 Bedrooms are Most Popular Listings Except in Midtown](https://github.com/user-attachments/assets/ccb07622-1615-45a0-b5cc-01126acb8607)
+
+To calculate how much money the most attractive listings generated, I focused on the top 10 neighborhoods and the most popular-sized property in those neighborhoods by creating a top_listing identifier column. Annual revenue was estimated by multiplying the last month's revenue by 12. 
+
+![Top Revenue Generating Listings](https://github.com/user-attachments/assets/ff927407-48f0-4638-aed9-dc55b625f0aa)
+
 
 ### Results
 - Midtown studio rentals and 1 bedroom rentals in neighborhoods like Harlem, Lower East Side, Hells Kitchen and Upper West Side are popular among travelers and have the most 
